@@ -41,9 +41,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=si-abhay&show_icons=true&theme=github_dark&locale=en&layout=compact&langs_count=4" alt="si-abhay" /></p>
+<p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=si-abhay&show_icons=true&theme=github_dark&locale=en&layout=compact&langs_count=8&card_width=320" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=si-abhay&theme=github_dark&show_icons=true&&hide_border=false&locale=en" alt="si-abhay" /></p>
+<p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=si-abhay&theme=github_dark&show_icons=true&&hide_border=false&locale=en" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=si-abhay&theme=github-dark-blue&hide_border=false" alt="si-abhay" /></p>
 
