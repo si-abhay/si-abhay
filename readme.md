@@ -54,3 +54,5 @@
 
 <h3 align="left">GitHub Trophies:</h3>
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=si-abhay&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="si-abhay" /></p>
+
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
