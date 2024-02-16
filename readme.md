@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=si-abhay&show_icons=true&locale=en" alt="si-abhay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=si-abhay&" alt="si-abhay" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=si-abhay&" alt="si-abhay" /></p>
