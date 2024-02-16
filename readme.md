@@ -42,8 +42,7 @@
 
 <h3 align="left">Stats:</h3>
 <p><a href="https://github.com/si-abhay">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=si-abhay&theme=github_dark&show_icons=true&&hide_border=false&locale=en" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/si-abhay">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=si-abhay&theme=github_dark&show_icons=true&&hide_border=false&locale=en" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/si-abhay">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=si-abhay&show_icons=true&theme=github_dark&locale=en&layout=compact&langs_count=8&card_width=320" />
 </a>
 </p>
