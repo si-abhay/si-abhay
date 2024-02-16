@@ -43,7 +43,7 @@
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=si-abhay&show_icons=true&locale=en&layout=compact" alt="si-abhay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=si-abhay&theme=github-dark-blue&show_icons=true&&hide_border=false&locale=en" alt="si-abhay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=si-abhay&theme=github_dark&show_icons=true&&hide_border=false&locale=en" alt="si-abhay" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=si-abhay&theme=github-dark-blue&hide_border=false" alt="si-abhay" /></p>
 
