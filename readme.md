@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with [Startup Manger Project.](https://github.com/si-abhay/startup_manager)
 
-- 👨‍💻 All of my projects are available at : [https://github.com/si-abhay]({Portfolio coming soon...})
+- 👨‍💻 All of my projects are available at : [{Portfolio coming soon...}]({https://github.com/si-abhay)
 
 - 💬 Ask me about **Cyber Security, Cyber Forensics, Django, Python,**
 
 - 📫 How to reach me **abhay12aps@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/122fLMn15m3DmXgnGAZiQm7zFGdoYoI3h/view?usp=sharing](through my Resume)
+- 📄 Know about my experiences [through my Resume](https://drive.google.com/file/d/122fLMn15m3DmXgnGAZiQm7zFGdoYoI3h/view?usp=sharing)
 
 - ⚡ Fun fact : **It's all just two digits at the end, 0s & 1s.**
 
