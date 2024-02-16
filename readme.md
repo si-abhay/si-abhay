@@ -45,7 +45,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=si-abhay&show_icons=true&locale=en" alt="si-abhay" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=si-abhay&theme=github-dark-blue&hide_border=true" alt="si-abhay" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=si-abhay&theme=github-dark-blue&hide_border=false" alt="si-abhay" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
