@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
-<h3 align="center">CFG’22 Finalist | Final year student at TIET | Django Developer | Cyber Security Enthusiast , Thapar Institute of Engineering and Technology (B.E Comp. Eng.)</h3>
+<h3 align="center">Software Developer at STGI | CFG’22 Finalist | 2024 passout TIET | Django Developer | Cyber Security Enthusiast , Thapar Institute of Engineering and Technology (B.E Comp. Eng.)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=si-abhay&label=Profile%20views&color=0e75b6&style=flat" alt="si-abhay" /> </p>
 
