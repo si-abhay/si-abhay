@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **Django REST Framework Applications.**
 
-- 🌱 I’m currently learning **DRF, APIs, Django & JavaScript.**
+- 🌱 Currently learning **DRF, APIs, Django and Django ORM.**
 
 - 👯 I’m looking to collaborate on **DRF/Django Backend Projects.**
 
-- 🤝 I’m looking for help with [Startup Manger Project.](https://github.com/si-abhay/startup_manager)
-
 - 👨‍💻 All of my projects are available at : [{Portfolio coming soon...}]({https://github.com/si-abhay)
 
-- 💬 Ask me about **Cyber Security, Cyber Forensics, Django, Python,**
+- 💬 Ask me about **Cyber Security, Django, Python.**
 
 - 📫 How to reach me **abhay12aps@gmail.com**
 
@@ -48,9 +46,3 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=si-abhay&theme=github-dark-blue&hide_border=false" alt="si-abhay" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<h3 align="left">GitHub Trophies:</h3>
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=si-abhay&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="si-abhay" /></p>
-
