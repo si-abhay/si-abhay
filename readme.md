@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhay12aps@gmail.com**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/122fLMn15m3DmXgnGAZiQm7zFGdoYoI3h/view?usp=sharing)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/19l0xqNJrLN7TLxJox2TgFPs8vArfCyeA/view?usp=sharing)
 
 - ⚡ Fun fact : **It's all just two digits at the end, 0s & 1s.**
 
